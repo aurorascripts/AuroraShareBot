@@ -96,7 +96,7 @@ print(Colorate.Vertical(Colors.purple_to_blue,(Center.XCenter('''
                   ╚╝ ╚╝╚══╝╚╝ ╚══╝╚╝ ╚═══╝    ╚═══╝╚══╝╚╝ ╚╝║╔═╝ ╚═╝╚══╝
                                                             ║║          
                          made by aurora#5916                ╚╝          
-
+WARNING! This bot has been patched. I am gonna make another version.
   
                                        
 ''')), 1))
@@ -105,7 +105,7 @@ print(Colorate.Vertical(Colors.purple_to_blue,(Center.XCenter('''
 if (__name__ == "__main__"):
     itemID       = Write.Input("[A] Video Link >>> ", Colors.purple_to_blue, interval=0.0001)
     amount       = Write.Input("[V] Amount >>> ", Colors.purple_to_blue, interval=0.0001)
-    NThread      = Write.Input("[G] Thread Amount >>> ", Colors.purple_to_blue, interval=0.0001)
+    
     
 
     itemID = ClearURI(itemID)
